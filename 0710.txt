@@ -1,0 +1,5 @@
+[0710]
+character code > 'A'
+variables > compare them as  'she' and 'he'
+7/15 
+declare and initialize! 
