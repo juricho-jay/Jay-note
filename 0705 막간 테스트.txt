@@ -1,5 +1,6 @@
 //# 콘솔로 출력하기 II - 특정 형식을 갖춘 문자열 안에 값을 삽입하여 출력하기
-//System.out.printf
+//System.out.printf    
+hellllo!!!!
 
 <1>
 //Q:  형식을 지정하지 않으면 print()와 같다. (줄바꿈 이스케이프 문자 넣기) 
